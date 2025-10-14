@@ -2,7 +2,7 @@
 
 <!-- Elegant Linear Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,e3ffe7,d9e7ff&text=Aveenash%20Kumar&fontAlign=50&fontSize=40&textBg=true&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlign=50&descSize=20&height=150&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,e3ffe7,d9e7ff&text=Aveenash%20Kumar&fontAlign=50&fontSize=40&textBg=true" />
 </p>
 
 <!-- Typing SVG Animation -->
