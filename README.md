@@ -1,20 +1,20 @@
-<!-- Profile README for Aditya Kumar -->
+<!-- Profile README for Aveenash Kumar -->
 
 <!-- Glassmorphism Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Aditya%20Kumar&fontAlign=50&fontSize=40&textBg=true&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlign=50&descSize=20&height=150&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Aveenash%20Kumar&fontAlign=50&fontSize=40&textBg=true&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlign=50&descSize=20&height=150&animation=fadeIn" />
 </p>
 
 <!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya+Kumar;Full+Stack+Developer;AI%2FML+Enthusiast;Java+%7C+Python+%7C+JavaScript+Lover;Always+Learning+New+Things!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Aveenash+Kumar;Full+Stack+Developer;AI%2FML+Enthusiast;Java+%7C+Python+%7C+JavaScript+Lover;Always+Learning+New+Things!" alt="Typing Animation" />
 </p>
 
 ---
 
 ## 🚀 About Me  
 🎓 Currently pursuing **B.Tech in Computer Science Engineering** at **Excel Engineering College**  
-💻 Passionate **Full Stack Developer** & **AI/ML Enthusiast**  
+💻 Passionate **Full Stack Developer** 
 🔥 Love creating modern, scalable, and interactive web applications  
 📚 Always learning new technologies to stay ahead in the tech world  
 
