@@ -2,12 +2,12 @@
 
 <!-- Animated Gradient Header with Particles -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=48&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&height=100&lines=AVENASH+KUMAR" alt="Name Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=48&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&height=100&lines=AVEENASH+KUMAR" alt="Name Animation" />
 </p>
 
 <!-- 3D Animated Badge -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=8B5CF6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+MERN+Specialist+%7C+Problem+Solver;Turning+ideas+into+scalable+solutions+%F0%9F%9A%80" alt="Title Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=8B5CF6&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer+%7C+SOFTWARE+DEVELOPER+%7C+Problem+Solver;Turning+ideas+into+scalable+solutions+%F0%9F%9A%80" alt="Title Animation" />
 </p>
 
 <!-- Animated Divider -->
