@@ -7,7 +7,7 @@
 
 <!-- 3D Animated Badge -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=8B5CF6&center=true&vCenter=true&width=700&lines=%7C+SOFTWARE+DEVELOPER+%7C+Problem+Solver;Turning+ideas+into+scalable+solutions+%F0%9F%9A%80" alt="Title Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=8B5CF6&center=true&vCenter=true&width=700&lines=SOFTWARE+DEVELOPER+%7C+Problem+Solver;Turning+ideas+into+scalable+solutions+%F0%9F%9A%80" alt="Title Animation" />
 </p>
 
 <!-- Animated Divider -->
