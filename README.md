@@ -100,13 +100,13 @@ AI-powered image enhancement application with real-time processing, drag-and-dro
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aveenashkumar68&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aveenashkumar68&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="170"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aveenashkumar68&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aveenashkumar68&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="600"/>
 </div>
 
 ---
