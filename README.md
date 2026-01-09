@@ -4,9 +4,9 @@
 
 <div align="center">
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/YOUR_GITHUB_USERNAME)
-  [![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=social)](https://github.com/YOUR_GITHUB_USERNAME)
-  [![GitHub stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=social)](https://github.com/YOUR_GITHUB_USERNAME)
+  [![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/aveenashkumar68)
+  [![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=social)](https://github.com/aveenashkumar68)
+  [![GitHub stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=social)](https://github.com/aveenashkumar68)
   
 </div>
 
@@ -30,10 +30,9 @@
   
   ### 🔗 Connect With Me
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
-  [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](YOUR_HACKERRANK_URL)
-  [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](YOUR_GFG_URL)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/aveenash-kumar-47a4502aa)
+  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](aveenashkumar68)
+  [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)]([YOUR_GFG_URL](https://www.geeksforgeeks.org/profile/aveenash4vx9))
   [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](YOUR_LEETCODE_URL)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aveenashkumar68@gmail.com)
   
