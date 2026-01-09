@@ -4,9 +4,9 @@
 
 <div align="center">
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/aveenashkumar68)
-  [![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=social)](https://github.com/aveenashkumar68)
-  [![GitHub stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=social)](https://github.com/aveenashkumar68)
+  [![Profile Views](https://komarev.com/ghpvc/?username=v&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/aveenashkumar68)
+  [![GitHub followers](https://img.shields.io/github/followers/aveenashkumar68?label=Followers&style=social)](https://github.com/aveenashkumar68)
+  [![GitHub stars](https://img.shields.io/github/stars/aveenashkumar68?label=Stars&style=social)](https://github.com/aveenashkumar68)
   
 </div>
 
