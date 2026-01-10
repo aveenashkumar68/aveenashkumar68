@@ -167,11 +167,11 @@ AI-powered image enhancement application with real-time processing, drag-and-dro
 
 ## 📈 Coding Profiles
 
-<div align="center">
+<!-- <div align="center">
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=heatmap)](YOUR_LEETCODE_URL)
 
-</div>
+</div> -->
 
 ---
 
