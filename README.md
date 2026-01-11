@@ -98,7 +98,7 @@ AI-powered image enhancement application with real-time processing, drag-and-dro
 
 ## 📊 GitHub Statistics
 
-<!-- <div align="center">
+ <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aveenashkumar68&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aveenashkumar68&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
@@ -108,7 +108,6 @@ AI-powered image enhancement application with real-time processing, drag-and-dro
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aveenashkumar68&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="600"/>
 </div>
 
---- -->
 
 ## 🏅 Achievements & Certifications
 
@@ -225,6 +224,6 @@ I'm always interested in working on exciting projects and connecting with fellow
   
   **"Code is like humor. When you have to explain it, it's bad!" – Cory House**
   
-  ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+ <!-- ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg) -->
   
 </div>
